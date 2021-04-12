@@ -1,0 +1,20 @@
+#display {
+  float: left;
+  text-align: center;
+  margin: 60px 20px;
+}
+#display p {
+  font-size: 16px;
+  font-weight: 700;
+  color: black;
+}
+.displayBox{
+  width: 180px;
+  height: 50px;
+  margin: 30px 0;
+  background-color: #808080;
+  text-align: center;
+  line-height: 50px;
+  color: black;
+  font-size: 20px;
+}

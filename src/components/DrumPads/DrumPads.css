@@ -1,0 +1,19 @@
+#drumPads {
+  float: left;
+  width: 360px;
+  margin: 20px 0 20px 20px;
+}
+.drum-pad {
+  float: left;
+  width: 100px;
+  height: 80px;
+  line-height: 80px;
+  margin: 10px 10px 0 0;
+  border-radius: 8px;
+  /* background-color: #808080; */
+  color: #000;
+  font-size: 22px;
+  font-weight: 700;
+  box-shadow: black 3px 3px 5px;
+  cursor: pointer;
+}
